@@ -2,6 +2,7 @@ package br.com.alura.forum.controller;
 
 import java.net.URI;
 import java.util.List;
+import java.util.Optional;
 
 import br.com.alura.forum.controller.form.TopicoForm;
 import br.com.alura.forum.repository.CursoRepository;
@@ -25,23 +26,26 @@ public class TopicosController {
 	@Autowired
 	private TopicoRepository topicoRepository;
 
-	@Autowired
 	private CursoRepository cursoRepository;
+
+
+	@GetMapping
+	public List<TopicoDto> lista() {
+		List<Topico> topicos = topicoRepository.findAll();
+		return TopicoDto.converter(topicos);
+	}
 	
-    @GetMapping
-	public List<TopicoDto> lista(String nomeCurso) {
-		if (nomeCurso == null) {
-			List<Topico> topicos = topicoRepository.findAll();
-			return TopicoDto.converter(topicos);
-		} else {
-			List<Topico> topicos = topicoRepository.findByCursoNome(nomeCurso);
-			return TopicoDto.converter(topicos);
-		}
+    @GetMapping ("/{titulo}")
+	public ResponseEntity<TopicoDto> listaTopicos(@PathVariable String titulo) {
+	Optional<Topico> topico = topicoRepository.findByTitulo(titulo);
+	if(!topico.isPresent()){
+		return ResponseEntity.notFound().build();
+	}
+	return ResponseEntity.ok(new TopicoDto(topico.get()));
 	}
 
 	@PostMapping
 	public ResponseEntity<TopicoDto> cadastrar(@RequestBody @Valid TopicoForm form, UriComponentsBuilder uriBuilder){
-
        Topico topico = form.converter(cursoRepository);
 		topicoRepository.save(topico);
 

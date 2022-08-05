@@ -1,5 +1,7 @@
 package br.com.alura.forum.modelo;
 
+import br.com.alura.forum.repository.CursoRepository;
+
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
@@ -61,5 +63,6 @@ public class Curso {
 	public void setCategoria(String categoria) {
 		this.categoria = categoria;
 	}
+
 
 }

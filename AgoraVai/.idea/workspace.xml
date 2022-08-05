@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="03ab3731-071a-426c-a344-6553c8b8cf8b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Arrumando/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/Arrumando.eml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/Arrumando.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/out/production/Arrumando/br/com/zup/desafioContasEspeciais/ClientesEspeciais.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/out/production/Arrumando/br/com/zup/desafioContasEspeciais/ContaCorrente.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/out/production/Arrumando/br/com/zup/desafioContasEspeciais/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/out/production/Arrumando/br/com/zup/desafioPolimorfia/CamaroteInferior.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/out/production/Arrumando/br/com/zup/desafioPolimorfia/CamaroteSupuerior.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/out/production/Arrumando/br/com/zup/desafioPolimorfia/Contador.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/out/production/Arrumando/br/com/zup/desafioPolimorfia/Ingresso.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/out/production/Arrumando/br/com/zup/desafioPolimorfia/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/out/production/Arrumando/br/com/zup/desafioPolimorfia/Vip.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/out/production/Arrumando/br/com/zup/exercicioConta/Autenticavel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/out/production/Arrumando/br/com/zup/exercicioConta/Cliente.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/out/production/Arrumando/br/com/zup/exercicioConta/Conta.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/out/production/Arrumando/br/com/zup/exercicioConta/ContaTeste.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/out/production/Arrumando/br/com/zup/exercicioConta/Data.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/out/production/Arrumando/br/com/zup/exercicioConta/Diretor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/out/production/Arrumando/br/com/zup/exercicioConta/Funcionario.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/out/production/Arrumando/br/com/zup/exercicioConta/FuncionarioAutenticavel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/out/production/Arrumando/br/com/zup/exercicioConta/Gerente.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/out/production/Arrumando/br/com/zup/exercicioConta/SistemaInterno.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/out/production/Arrumando/br/com/zup/exercicioFabricaDeCarro/Carro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/out/production/Arrumando/br/com/zup/exercicioFabricaDeCarro/Motor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/out/production/Arrumando/br/com/zup/exercicioFabricaDeCarro/TestarCarro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/src/br/com/zup/AgoraVai/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/src/br/com/zup/AgoraVai/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/src/br/com/zup/AgoraVai/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/src/br/com/zup/AgoraVai/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/src/br/com/zup/AgoraVai/AgoraVai.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/src/br/com/zup/AgoraVai/out/production/AgoraVai/Ale.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/src/br/com/zup/AgoraVai/out/production/AgoraVai/Fé.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/src/br/com/zup/AgoraVai/src/Fé.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/src/br/com/zup/desafioContasEspeciais/ClientesEspeciais.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/src/br/com/zup/desafioContasEspeciais/ContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/src/br/com/zup/desafioContasEspeciais/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/src/br/com/zup/desafioPolimorfia/CamaroteInferior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/src/br/com/zup/desafioPolimorfia/CamaroteSupuerior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/src/br/com/zup/desafioPolimorfia/Contador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/src/br/com/zup/desafioPolimorfia/Ingresso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/src/br/com/zup/desafioPolimorfia/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/src/br/com/zup/desafioPolimorfia/Vip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/src/br/com/zup/exercicioConta/Autenticavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/src/br/com/zup/exercicioConta/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/src/br/com/zup/exercicioConta/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/src/br/com/zup/exercicioConta/ContaTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/src/br/com/zup/exercicioConta/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/src/br/com/zup/exercicioConta/Diretor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/src/br/com/zup/exercicioConta/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/src/br/com/zup/exercicioConta/FuncionarioAutenticavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/src/br/com/zup/exercicioConta/Gerente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/src/br/com/zup/exercicioConta/SistemaInterno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/src/br/com/zup/exercicioFabricaDeCarro/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/src/br/com/zup/exercicioFabricaDeCarro/Motor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrumando/src/br/com/zup/exercicioFabricaDeCarro/TestarCarro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Banco/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Banco/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Banco/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Banco/Banco.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Banco/out/production/Banco/Cliente.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Banco/out/production/Banco/Conta.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Banco/out/production/Banco/Programa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Banco/out/production/Banco/Teste.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Banco/src/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Banco/src/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Banco/src/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Banco/src/br/com/zup/exercicios/Banco/Programa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conta+Inferface/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conta+Inferface/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conta+Inferface/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conta+Inferface/Conta+Inferface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conta+Inferface/out/production/Conta+Inferface/Conta.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conta+Inferface/out/production/Conta+Inferface/Credito.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conta+Inferface/out/production/Conta+Inferface/Debito.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conta+Inferface/out/production/Conta+Inferface/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conta+Inferface/out/production/Conta+Inferface/Salario.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conta+Inferface/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conta+Inferface/src/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conta+Inferface/src/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conta+Inferface/src/Credito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conta+Inferface/src/Debito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conta+Inferface/src/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conta+Inferface/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conta+Inferface/src/Salario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conta+Interface2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conta+Interface2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conta+Interface2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conta+Interface2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conta+Interface2/Conta+Interface2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conta+Interface2/out/production/Conta+Interface2/Conta.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conta+Interface2/out/production/Conta+Interface2/ContaCorrente.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conta+Interface2/out/production/Conta+Interface2/ContaCorrenteEspecial.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conta+Interface2/out/production/Conta+Interface2/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conta+Interface2/src/ContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conta+Interface2/src/ContaCorrenteEspecial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conta+Interface2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conta+Interface2/src/MetadosDeTransferencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContaEx/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContasBancarias/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContasBancarias/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContasBancarias/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContasBancarias/ContasBancarias.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContasBancarias/out/production/ContasBancarias/ClientesEspeciais.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContasBancarias/out/production/ContasBancarias/ContaCorrente.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContasBancarias/out/production/ContasBancarias/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContasBancarias/src/ClientesEspeciais.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContasBancarias/src/ContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContasBancarias/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Desafio/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Desafio/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Desafio/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Desafio/Desafio.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FabricaDeCarros/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FabricaDeCarros/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FabricaDeCarros/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FabricaDeCarros/FabricaDeCarros.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FabricaDeCarros/out/production/FabricaDeCarros/Carro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FabricaDeCarros/out/production/FabricaDeCarros/TestarCarro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MeuPrograma/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MeuPrograma/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MeuPrograma/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MeuPrograma/MeuPrograma.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MeuPrograma/out/production/MeuPrograma/MeuPrograma.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MeuPrograma/src/MeuPrograma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bootcamp-01-template-ecommerce" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="25IHNN3qEE6d29QMowgc68tH7kq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Fé" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fé" />
+      <module name="AgoraVai" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Fé" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03ab3731-071a-426c-a344-6553c8b8cf8b" name="Changes" comment="" />
+      <created>1645207642395</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645207642395</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

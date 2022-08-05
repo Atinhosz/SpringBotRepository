@@ -30,15 +30,8 @@ public class Topico {
 	@OneToMany(mappedBy = "topico")
 	private List<Resposta> respostas = new ArrayList<>();
 
-	public Topico(Long id, String titulo, String mensagem, LocalDateTime dataCriacao, StatusTopico status, Usuario autor, Curso curso, List<Resposta> respostas) {
-		this.id = id;
-		this.titulo = titulo;
-		this.mensagem = mensagem;
-		this.dataCriacao = dataCriacao;
-		this.status = status;
-		this.autor = autor;
-		this.curso = curso;
-		this.respostas = respostas;
+	@Deprecated
+	public Topico(){
 	}
 
 	public Topico(String titulo, String mensagem, Curso curso) {
